@@ -1,1 +1,1 @@
-# Proyecto_Auto
+Este proyecto busca analizar una base de datos sobre automóviles y sus componentes, con el fin de identificar cuál ofrece la mejor relación calidad-precio, tomando en cuenta el consumo de gasolina, el kilometraje y entre otras posibles variables. Utilizando herramientas estadísticas y graficas para comprender cómo cada variable influye en la decisión de una compra.
