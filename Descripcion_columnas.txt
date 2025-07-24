@@ -1,0 +1,29 @@
+Brand: marca del automóvil.
+
+Model: nombre específico del modelo del automóvil.
+
+VehicleClass: tipo de carrocería.
+
+Region: región geográfica donde se fabricó el automóvil.
+
+DriveTrain: tipo de sistema de tracción.
+
+MSRP: precio de venta sugerido por el fabricante.
+
+DealerCost: precio al que el concesionario vende el automóvil.
+
+EngineSize: tamaño del motor en litros.
+
+Cylinders: número de cilindros del motor.
+
+Horsepower: potencia máxima del motor en caballos de fuerza.
+
+MPG_City: rendimiento de combustible en millas por galón en ciudad.
+
+MPG_Highway: rendimiento de combustible en millas por galón en carretera.
+
+Weight: peso del vehículo en libras.
+
+Wheelbase: distancia entre los ejes delantero y trasero.
+
+Length: longitud total del vehículo de parachoques a parachoques.
